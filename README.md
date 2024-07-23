@@ -8,12 +8,12 @@ Graduado reciente en Data Science con background en marketing digital y e-commer
 
 ### 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** Python, SQL (básico-intermedio)
+- **Lenguajes:** Python, SQL 
 - **Análisis de Datos:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn
 - **Visualización:** Power BI, Looker
-- **Bases de Datos:** MySQL, MongoDB (conocimientos básicos)
-- **Cloud:** Google Cloud Platform (BigQuery, Cloud Storage, Cloud Functions)
+- **Bases de Datos:** MySQL, MongoDB 
+- **Cloud:** Google Cloud Platform (BigQuery, Cloud Storage, Cloud Functions, Data Fusion)
 - **ETL y Orquestación:** Apache Airflow
 - **Despliegue:** Render, Streamlit
 - **Web:** WordPress
