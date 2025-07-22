@@ -1,6 +1,6 @@
 # Hola, soy Francisco Agámez 👋
 
-## 🚀 Data Scientist | Analista de Datos | Ingeniero de Datos
+## 🚀 Data Scientist | Analista de Datos |
 
 🌍 Montería, Colombia | 📧 franciscoagamez@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/francisco-agamez/) | 🌐 [www.franciscoagamez.com]
 
